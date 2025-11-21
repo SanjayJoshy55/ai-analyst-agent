@@ -25,6 +25,6 @@ def main():
             }
             processed_data.append(combined)
     save_to_csv(processed_data)
-    print("✅ Pipeline finished successfully.")
+    print(" Pipeline finished successfully.")
 if __name__ == "__main__":
     main()
