@@ -1,0 +1,6 @@
+requests
+pandas
+rapidfuzz
+tqdm
+google-generativeai
+python-dotenv
