@@ -60,3 +60,5 @@ hype_filter.py	                 Filters out low-quality or promotional articles
 diagram.png	                     Flowchart of the system architecture
 samples/ai_startup_data.csv	     Final output file 
 dashboard.pbix                   sample Dashboard created using PowerBI
+
+youtube link https://youtu.be/4IkDyThwUBI
